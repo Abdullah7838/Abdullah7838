@@ -14,9 +14,14 @@
 
 ## 🛠️ Skills  
 
+### 💻 Programming Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
+</p>
+
 ### 🌐 Frontend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ Backend  
